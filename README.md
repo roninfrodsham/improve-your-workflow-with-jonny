@@ -887,7 +887,21 @@ volumes:
 
 Other useful stuff to check out:
 
+Use 'trash' command to delete things in the terminal - not `rm` or `rm -rf`
 
+https://formulae.brew.sh/formula/trash
+
+```bash
+$ brew install trash
+```
+
+Terminal based file browser: `nnn`
+
+https://formulae.brew.sh/formula/nnn#default
+
+```bash
+$ brew install nnn
+```
 
 ## OSX
 
