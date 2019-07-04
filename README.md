@@ -334,6 +334,10 @@ augroup END
 
 This is best done with a plugin in manager such as Vundle (https://github.com/VundleVim/Vundle.vim).
 
+```
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+```
+
 
 
 
