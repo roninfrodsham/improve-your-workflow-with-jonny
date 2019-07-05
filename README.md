@@ -271,6 +271,9 @@ wget https://raw.githubusercontent.com/gosukiwi/vim-atom-dark/master/colors/atom
 ,eq
 
 colorscheme atom-dark
+
+# source the current file to reflect your updated vimrc
+:so %
 ```
 
 
