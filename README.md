@@ -19,6 +19,25 @@ https://www.typingtest.com
 
 
 
+| Geek              | Score |
+| ----------------- | ----- |
+| Sam Tate          | 69    |
+| Andy Speirs       | 34    |
+| Laura Moss        | 63    |
+| Martin Hymers     | 38    |
+| Sam Bunting       | 45    |
+| Ben Ely           | 58    |
+| Charlotte Gaskell | 45    |
+| Babs Comoglio     | 39    |
+| Alessandro Melcam | 32    |
+| Bev Evans         | 39    |
+| Josh Bowley       | 44    |
+| Warren Perkins    | 47    |
+
+
+
+
+
 
 
 ## Command Line
