@@ -360,7 +360,8 @@ This is best done with a plugin in manager such as Vundle (https://github.com/Vu
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 
-
+### Vim Resources
+[Become a Html Ninja with Emmet for Vim](https://medium.com/vim-drops/be-a-html-ninja-with-emmet-for-vim-feee15447ef1)
 
 
 
