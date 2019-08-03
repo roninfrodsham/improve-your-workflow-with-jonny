@@ -362,7 +362,7 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 ### Vim Resources
 [Become a Html Ninja with Emmet for Vim](https://medium.com/vim-drops/be-a-html-ninja-with-emmet-for-vim-feee15447ef1)
-
+[Mastering Vim Quickly](https://jovicailic.org/mastering-vim-quickly/)
 
 
 ## Docker
