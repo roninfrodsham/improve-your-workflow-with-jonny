@@ -1,50 +1,18 @@
-# Improving Your Workflow with Keanu
+# Improving Your Workflow with Jonny
 
 
 
 ## Update your system prefs
 
-You can optimise your machine to respond faster:
+Optimise your machine to respond faster:
 
 - System Preferences > Keyboard
 - System Preferences > Trackpad
 
 
-
-
-
-## Increase your typing speed
-
-https://www.typingtest.com
-
-
-
-| Geek              | Score |
-| ----------------- | ----- |
-| Sam Tate          | 69    |
-| Andy Speirs       | 34    |
-| Laura Moss        | 63    |
-| Martin Hymers     | 38    |
-| Sam Bunting       | 45    |
-| Ben Ely           | 58    |
-| Charlotte Gaskell | 45    |
-| Babs Comoglio     | 39    |
-| Alessandro Melcam | 32    |
-| Bev Evans         | 39    |
-| Josh Bowley       | 44    |
-| Warren Perkins    | 47    |
-
-
-
-
-
-
-
 ## Command Line
 
-
-
-The command line is our friend. Mac terminal is good but I like to use Hyper and iTerm is also good.
+The command line is our friend. Mac terminal is good but I like to use Hyper or iTerm.
 
 - Hyper (https://hyper.is)
 
